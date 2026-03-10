@@ -1,0 +1,80 @@
+country,genre_name,genre_revenue
+Argentina,Rock,0.99
+Australia,Rock,17.82
+Australia,Metal,0.99
+Austria,Rock,5.94
+Austria,Metal,2.97
+Belgium,Rock,4.95
+Belgium,Metal,2.97
+Brazil,Rock,25.74
+Brazil,Jazz,13.86
+Brazil,Metal,11.88
+Brazil,Latin,3.96
+Brazil,"Alternative & Punk",0.99
+Canada,Rock,56.43
+Canada,Metal,21.78
+Canada,Latin,1.98
+Canada,Blues,1.98
+Canada,"Alternative & Punk",0.99
+Canada,Jazz,0.99
+Chile,Rock,6.93
+Chile,Metal,3.96
+Chile,Latin,0.99
+"Czech Republic",Rock,13.86
+"Czech Republic",Metal,2.97
+"Czech Republic",Latin,1.98
+"Czech Republic",Jazz,0.99
+Denmark,Rock,5.94
+Finland,Rock,5.94
+France,Rock,25.74
+France,Metal,11.88
+France,Latin,2.97
+France,Jazz,1.98
+France,"Alternative & Punk",0.99
+France,Blues,0.99
+Germany,Rock,27.72
+Germany,Metal,5.94
+Germany,Blues,2.97
+Germany,"Alternative & Punk",1.98
+Germany,Latin,1.98
+Germany,Jazz,0.99
+Hungary,Rock,3.96
+Hungary,"Alternative & Punk",0.99
+Hungary,Metal,0.99
+India,Rock,12.87
+India,Metal,4.95
+India,Latin,0.99
+India,"Alternative & Punk",0.99
+Ireland,Rock,1.98
+Ireland,Metal,0.99
+Italy,Rock,2.97
+Netherlands,Rock,5.94
+Netherlands,Blues,1.98
+Norway,Metal,1.98
+Norway,Rock,0.99
+Norway,"Alternative & Punk",0.99
+Poland,Rock,13.86
+Poland,Blues,10.89
+Poland,Metal,1.98
+Portugal,Rock,22.77
+Portugal,Metal,2.97
+Portugal,"Alternative & Punk",0.99
+Spain,Metal,3.96
+Spain,Rock,1.98
+Spain,Reggae,0.99
+Spain,Latin,0.99
+Sweden,Rock,4.95
+Sweden,Metal,0.99
+Sweden,Blues,0.99
+"United Kingdom",Rock,46.53
+"United Kingdom",Metal,4.95
+"United Kingdom",Reggae,0.99
+"United Kingdom","Alternative & Punk",0.99
+"United Kingdom",Latin,0.99
+"United Kingdom",Jazz,0.99
+USA,Rock,69.3
+USA,Metal,33.66
+USA,Blues,2.97
+USA,Latin,1.98
+USA,"Alternative & Punk",1.98
+USA,Jazz,1.98
